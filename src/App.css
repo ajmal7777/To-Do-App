@@ -1,7 +1,24 @@
-* {
+*{
+    margin: 0;
+    padding: 0;
     box-sizing: border-box;
-    font-family: "baloo_paaji_2regular";
-}
+    border: 0;
+    vertical-align: baseline;
+    /* background: 0 0; */
+    font-weight: 400;
+    font-style: normal;
+    text-decoration: none;
+    outline: 0;
+    list-style: none;
+  }
+  img{
+    width: 100%;
+    display: block;
+  }
+  
+  .App {
+    text-align: center;
+  }
 
 @font-face {
     font-family: "baloo_paaji_2regular";
